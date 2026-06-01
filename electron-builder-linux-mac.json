@@ -75,7 +75,7 @@
     "icon": "./build",
     "desktop": {
       "entry": {
-        "StartupWMClass": "draw.io"
+        "StartupWMClass": "draw-io"
       }
     },
     "target": [
